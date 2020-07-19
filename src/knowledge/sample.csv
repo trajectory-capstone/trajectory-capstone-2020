@@ -1,0 +1,4 @@
+user_start user_end loc_start loc_end day_len days week_cnt input_trace output_file
+1 10 1 21 24 1 1 learning_20.trace knowledge_20
+1 10 1 21 24 1 1 learning_40.trace knowledge_40
+1 10 1 21 24 1 1 learning_50.trace knowledge_50
