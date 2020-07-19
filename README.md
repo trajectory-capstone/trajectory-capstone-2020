@@ -14,5 +14,5 @@ This project makes use of precompiled binaries of [Location Privacy Meter](https
 ## Team Members
 * [Aparna Bhutani]()
 * [Shreeraman Arunachalam Karikalan]()
-* [Siqi Huang]()
+* [Siqi Huang](https://github.com/SiqiHuang18)
 * [Vivek Patel](https://github.com/necrote)
