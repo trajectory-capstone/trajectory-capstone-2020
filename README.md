@@ -12,7 +12,7 @@ Capstone project for a two-semester course "Urban Science Intensive" at NYU requ
 This project makes use of precompiled binaries of [Location Privacy Meter](https://github.com/privacytrustlab/location_privacy_meter) (LPM) tool available [here](https://icapeople.epfl.ch/rshokri/lpm/doc/).
 
 ## Team Members
-* [Aparna Bhutani]()
-* [Shreeraman Arunachalam Karikalan]()
+* [Aparna Bhutani](https://github.com/aparna-bhutani)
+* [Shreeraman Arunachalam Karikalan](https://github.com/shreeraman96/)
 * [Siqi Huang](https://github.com/SiqiHuang18)
 * [Vivek Patel](https://github.com/necrote)
